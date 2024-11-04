@@ -1,6 +1,6 @@
 class Solution:
     # @param A : list of integers
-     # @return an long
+    # @return an long
     def subarraySum(self, A):
         n = len(A)
         total_sum = 0
